@@ -6,7 +6,6 @@ public class ToILab2 {
     private static final char[] src_A = {'А', 'Б', 'В', 'Г', 'Д', 'Е', 'Ж', 'З'};
     private static Tree tree;
     private static String encodedStr; 
-    //private static String test = "ВЗЖЗЖЕДДГГДДГБГБГААБАААА";
     
     public static void main(String[] args){
         String inputStr;
